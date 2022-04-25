@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/openeagle/uniapp-using-component-webpack-plugin/compare/v1.0.0...v1.0.1) (2022-04-25)
+
+
+### Bug Fixes
+
+* 去掉多余的依赖 ([e1040ee](https://github.com/openeagle/uniapp-using-component-webpack-plugin/commit/e1040ee4c14762c93a1c63654c7c58a203262db8))
+
 # 1.0.0 (2022-04-25)
 
 
