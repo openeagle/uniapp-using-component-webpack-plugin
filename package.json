@@ -13,7 +13,7 @@
     "lint": "run-s lint:*",
     "format:js": "eslint --fix \"./**/*.{js,ts,tsx,vue}\"",
     "format": "run-s format:*",
-    "release": "run-s build release:*",
+    "release": "run-s release:*",
     "release:semantic": "semantic-release"
   },
   "lint-staged": {
