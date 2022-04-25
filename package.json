@@ -17,11 +17,7 @@
     "release:semantic": "semantic-release"
   },
   "lint-staged": {
-    "*.{vue,ts,tsx,js,jsx}": "eslint --fix",
-    "*.{vue,css,less,sass,scss}": "stylelint --fix"
-  },
-  "peerDependencies": {
-    "vue": "^3.0.0"
+    "*.{js,jsx,ts,tsx}": "eslint --fix"
   },
   "dependencies": {
     "comment-json": "^4.1.1",
